@@ -1,0 +1,21 @@
+{
+  "name": "node_learn",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "learn"
+  ],
+  "author": "Atul",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
